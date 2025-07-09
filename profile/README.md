@@ -1,10 +1,10 @@
-<h1 align="center">🔐 LLM-VulnReporter</h1>
+<h1 align="center">🔐 LV.0: LLM Vulnerability Zero - LLM-powered Security Vulnerability Reporter</h1>
 <p align="center"><strong>AI 기반 오픈소스 보안 취약점 리포팅 도우미</strong></p>
 
 ---
 
 ## 프로젝트 개요
-**LLM-VulnReporter**는 오픈소스 프로젝트(GitHub 또는 압축 파일 형태)를 입력받아,  
+**LV.0**는 오픈소스 프로젝트(GitHub 또는 압축 파일 형태)를 입력받아,  
 정적 분석 도구와 LLM(Large Language Model)을 결합해 **보안 취약점을 자동 탐지 및 리포팅**하는  
 웹 기반 보안 도우미 프로그램입니다.
 

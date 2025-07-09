@@ -1,4 +1,4 @@
-<h1 align="center">🔐 LV.0: LLM Vulnerability Zero - LLM-powered Security Vulnerability Reporter</h1>
+<h1 align="center">🔐 LV.0: LLM Vulnerability Zero - Security Vulnerability Reporter</h1>
 <p align="center"><strong>AI 기반 오픈소스 보안 취약점 리포팅 도우미</strong></p>
 
 ---

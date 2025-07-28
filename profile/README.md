@@ -38,7 +38,7 @@ The ultimate goal is to serve as a **practical AI-powered security assistant** t
 
 ## 🧩 System Architecture
 
-<img width="2884" alt="KakaoTalk_20250709_154209972" src="https://github.com/user-attachments/assets/b50c61e2-1aee-417a-8744-f370548b1a8b" />
+<img width="5588" height="7228" alt="System Architecture" src="https://github.com/user-attachments/assets/2f21e8b0-a145-4483-be88-897879bf9b2b" />
 
 
 ---

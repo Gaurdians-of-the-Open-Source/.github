@@ -38,11 +38,29 @@ The ultimate goal is to serve as a **practical AI-powered security assistant** t
 
 ## 🧩 System Architecture
 
-<img width="5588" height="7228" alt="System Architecture" src="https://github.com/user-attachments/assets/2f21e8b0-a145-4483-be88-897879bf9b2b" />
+<img width="9049" height="4151" alt="LV 0 System Architecture (2)" src="https://github.com/user-attachments/assets/6efb1ec5-c7b6-4fca-aef8-e4e2d767464a" />
+
 
 
 ---
 
+## Frontend
+
+<img width="1734" height="1012" alt="KakaoTalk_20250821_184030302" src="https://github.com/user-attachments/assets/cbd4a8b0-0d6b-499a-bd3d-20140961f2e3" />
+<img width="1734" height="1012" alt="KakaoTalk_20250821_184018368" src="https://github.com/user-attachments/assets/d1d00ad1-5a23-48b4-83cb-091ac4686357" />
+<img width="1734" height="1012" alt="KakaoTalk_20250821_183009168" src="https://github.com/user-attachments/assets/24b50c2f-b889-46d4-b94e-0dfdbcb3f280" />
+
+---
+
+## PDF outputs example
+
+
+![3acdd0bb-8a8e-4b87-a504-c2d945ff1146_page-0002](https://github.com/user-attachments/assets/d8f17abf-fc26-436d-b106-a47163b57046)
+![3acdd0bb-8a8e-4b87-a504-c2d945ff1146_page-0001](https://github.com/user-attachments/assets/e2af226d-0133-4445-9aff-09aead028311)
+
+
+
+---
 ## 💡 Tech Stack
 
 - **Frontend**: React, TypeScript, TailwindCSS  

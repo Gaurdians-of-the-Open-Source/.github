@@ -139,6 +139,7 @@ python app.py
 # Flask-B 실행 (LLM 분석 서비스) - 새 터미널에서
 cd flask-b
 pip install -r requirements.txt
+$env:ANTHROPIC_API_KEY="your_anthropic_api_key_here" (환경변수 설정)
 python app.py
 ```
 

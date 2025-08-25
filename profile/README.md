@@ -10,7 +10,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![React](https://img.shields.io/badge/React-18+-61dafb.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178c6.svg)](https://www.typescriptlang.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 </div>
 
@@ -77,7 +76,6 @@ LV.0-LLM-Vulnerability-Zero/
 │   │   └── 📁 assets/          # 이미지 및 리소스
 │   ├── 📁 electron/            # Electron 설정
 │   ├── 📁 dist/                # 빌드 결과물
-│   ├── 📄 Dockerfile           # 프론트엔드 컨테이너
 │   ├── 📄 package.json         # Node.js 의존성
 │   ├── 📄 vite.config.ts       # Vite 설정
 │   └── 📄 tsconfig.json        # TypeScript 설정
@@ -88,7 +86,6 @@ LV.0-LLM-Vulnerability-Zero/
 │   ├── 📁 final_output/        # 최종 출력
 │   ├── 📄 app.py               # Flask 애플리케이션
 │   ├── 📄 forwarder.py         # 요청 전달 로직
-│   ├── 📄 Dockerfile           # 컨테이너 설정
 │   └── 📄 requirements.txt     # Python 의존성
 ├── 📁 flask-b/                  # LLM 분석 서비스
 │   ├── 📁 workspace/           # 작업 공간
@@ -97,7 +94,6 @@ LV.0-LLM-Vulnerability-Zero/
 │   ├── 📄 llm_utils.py         # Claude API 연동
 │   ├── 📄 utils.py             # 유틸리티 함수
 │   ├── 📄 unzipper.py          # 압축 해제 로직
-│   ├── 📄 Dockerfile           # 컨테이너 설정
 │   └── 📄 requirements.txt     # Python 의존성
 ├── 📄 .gitignore               # Git 제외 파일
 ├── 📄 package.json             # 루트 패키지 설정
